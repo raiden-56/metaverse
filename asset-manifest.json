@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/metaverse/static/css/main.b55224b5.css",
+    "main.js": "/metaverse/static/js/main.f8fdf005.js",
+    "static/js/787.82de9e9b.chunk.js": "/metaverse/static/js/787.82de9e9b.chunk.js",
+    "static/media/dance.png": "/metaverse/static/media/dance.a3019f0fc84fd11bad61.png",
+    "static/media/banner-vr.png": "/metaverse/static/media/banner-vr.f33080360336c89be6a0.png",
+    "static/media/metaverse.png": "/metaverse/static/media/metaverse.bfc89636c7c808a5ed28.png",
+    "static/media/travel.jpg": "/metaverse/static/media/travel.b99ad71836713522e954.jpg",
+    "static/media/digital-clothing.jpg": "/metaverse/static/media/digital-clothing.ace026c6b0028f0ef96d.jpg",
+    "static/media/artworks.jpg": "/metaverse/static/media/artworks.7690168908a8c9d02bc6.jpg",
+    "static/media/virtual-reality.jpg": "/metaverse/static/media/virtual-reality.00741a22cc8ef553d9ad.jpg",
+    "static/media/games.jpg": "/metaverse/static/media/games.bff8a3ee3bcf92558a94.jpg",
+    "static/media/collegues.jpg": "/metaverse/static/media/collegues.f8a446a4f8147632a76e.jpg",
+    "index.html": "/metaverse/index.html",
+    "main.b55224b5.css.map": "/metaverse/static/css/main.b55224b5.css.map",
+    "main.f8fdf005.js.map": "/metaverse/static/js/main.f8fdf005.js.map",
+    "787.82de9e9b.chunk.js.map": "/metaverse/static/js/787.82de9e9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b55224b5.css",
+    "static/js/main.f8fdf005.js"
+  ]
+}
